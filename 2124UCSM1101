@@ -1,0 +1,169 @@
+#include <isotream>
+using namespace std ;
+
+class student{
+     private:
+        string name ;
+        introll number ;
+        float Mark ;
+        
+        
+        public ;
+        
+         void inputdetails(){
+         cout<<"Enter student name";
+         cin>>name;
+         cout<<"Enter roll number";
+         cin>>roll number;
+         cout<<"Enter Marks";
+         cin>>marks;
+         
+         }
+         void displayDetails(){
+         cout<<"\n student Details :\n<<endl;
+         cout<<"Name"<<name<<endl;
+         cout<<"Roll Number : "<<rollsnumber<<endl;
+         cout<<"Marks"<<mark<<endl;
+         }
+         };
+         int main(){
+         student student1,student2;
+         cout<<"enter details for the student : \n"<<endl;
+         student1.inputDetails();
+         
+         cout<"\nEnter Details for the second student:\n"<<endl;
+         student1.input Details();
+         
+         cout<<"\n Details of the first student ; ';
+         student1.display details();
+       
+       cout<<"\n details of the second student; ";
+       student 2 .displayDetails();
+       
+       return 0;
+       }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+int a=8,b=3
+
+//Addition operator
+cout<<"a+b="<<(a+b)<<endl;
+
+//Subtraction operator
+cout<<"a-b="<<(a-b)<<endl;
+
+//Multiplication operator
+cout<<"a*b="<<(a*b)<<endl;
+
+//Division operator
+cout<<"a/b="<<(a/b)<<endl;
+
+//Module operator
+cout<<"a%b="<<(a%b)<<endl;
+
+return 0;
+}
+
+
+
+
+
+
+
+
